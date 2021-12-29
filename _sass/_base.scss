@@ -98,6 +98,7 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  text-transform: capitalize;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
